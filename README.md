@@ -1,228 +1,128 @@
 <div align="center">
 
-# 🚀 Angad Kumar
-
-### Data Engineer • AI Engineer • GenAI Engineer • Full Stack Developer
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Databricks+Certified+Data+Engineer;Building+Scalable+Data+%26+AI+Systems;AI+%7C+ML+%7C+DL+%7C+GenAI+%7C+RAG+%7C+Agentic+AI;Lakehouse+Architecture+%7C+Streaming+Pipelines;Full+Stack+%7C+Cloud+%7C+Mobile+Development" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F2027,50:203A43,100:2C5364&text=ANGAD%20KUMAR&fontSize=55&fontAlignY=40&desc=Data%20Engineer%20•%20AI%20Engineer%20•%20GenAI%20Developer&descAlignY=60&animation=fadeIn&fontColor=ffffff"/>
 
 <br/>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Databricks+Certified+Data+Engineer;Building+Scalable+Data+%26+AI+Platforms;AI+%7C+ML+%7C+DL+%7C+GenAI+%7C+RAG+%7C+Agentic+AI;Lakehouse+Architecture+%7C+Streaming+Pipelines;Full+Stack+%7C+Cloud+%7C+Enterprise+Systems" />
+
+<br/><br/>
+
 <img src="https://komarev.com/ghpvc/?username=angadkumar9128&label=Profile+Views&color=blueviolet&style=for-the-badge" />
 
-<img src="https://img.shields.io/github/followers/angadkumar9128?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/github/followers/angadkumar9128?style=for-the-badge&logo=github&color=black" />
 
-<img src="https://img.shields.io/github/stars/angadkumar9128?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/github/stars/angadkumar9128?style=for-the-badge&logo=github&color=yellow" />
+
+<img src="https://img.shields.io/badge/Databricks-Certified-red?style=for-the-badge&logo=databricks&logoColor=white" />
 
 </div>
 
 ---
 
-# 💫 About Me
+# 🚀 About Me
 
-🚀 Databricks Certified Data Engineer passionate about building scalable Data & AI Systems.
+<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGR4aW1tOGVtb3o5NTh5YWhiMGRibnI3a2JrYmNxOHM2aGR6Y3ZhNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif">
 
-💡 Experienced in:
-- Data Engineering
-- AI / ML / Deep Learning
-- GenAI & RAG Systems
-- Agentic AI
-- Real-Time Streaming Pipelines
-- Full Stack Development
-- Mobile & Enterprise Application Development
+### ⚡ Engineering Data-Driven & AI-Powered Systems
 
-⚡ Specialized in:
-- PySpark & Spark SQL
-- Delta Lake & Lakehouse Architecture
-- ETL / ELT Pipelines
-- Kafka & Structured Streaming
-- Vector Search & Semantic Retrieval
-- AI-Powered Enterprise Systems
+I am a **Databricks Certified Data Engineer** passionate about building:
+
+- ⚡ Scalable Data Pipelines
+- 🧠 AI & GenAI Applications
+- 📊 Lakehouse Architectures
+- 🔥 Real-Time Streaming Systems
+- 🚀 Enterprise Analytics Platforms
+- 🤖 RAG & Agentic AI Systems
+- 🌐 Full Stack & Mobile Applications
+
+### 💡 Core Expertise
+
+```yaml
+Data Engineering:
+  - PySpark
+  - Spark SQL
+  - Delta Lake
+  - ETL/ELT Pipelines
+  - Structured Streaming
+  - Lakehouse Architecture
+
+AI & GenAI:
+  - Machine Learning
+  - Deep Learning
+  - RAG Systems
+  - Semantic Search
+  - LLM Applications
+  - Agentic AI
+
+Cloud & Development:
+  - AWS
+  - Azure
+  - Firebase
+  - React
+  - Node.js
+  - Android Development
+```
 
 ---
 
 # ⚡ Tech Stack
 
+<div align="center">
+
 ## 🧠 AI / ML / GenAI
 
-<p align="center">
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" />
-</p>
 
-<p align="center">
-
-`Machine Learning`
-`Deep Learning`
-`Computer Vision`
-`RAG`
-`Agentic AI`
-`LLMs`
-`NLP`
-`Semantic Search`
-`Vector Databases`
-
-</p>
-
----
+<br/><br/>
 
 ## 📊 Data Engineering & Cloud
 
-<p align="center">
 <img src="https://skillicons.dev/icons?i=aws,azure,docker,kafka,mongodb,mysql,postgres,firebase" />
-</p>
 
-<p align="center">
-
-`Databricks`
-`PySpark`
-`Spark SQL`
-`Delta Lake`
-`Apache Airflow`
-`Apache Kafka`
-`Snowflake`
-`Azure Data Factory`
-`Azure Synapse`
-`AWS S3`
-`ETL Pipelines`
-`Lakehouse Architecture`
-
-</p>
-
----
+<br/><br/>
 
 ## 💻 Full Stack & Mobile Development
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,nodejs,django,js,ts,html,css,bootstrap,java,androidstudio" />
-</p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,django,ts,js,html,css,bootstrap,java,androidstudio" />
+
+</div>
 
 ---
 
 # 🚀 Featured Engineering Projects
 
-## 🏥 NextGen Healthcare Analytics Using Delta Lake
-### Role: Data Engineer
+<div align="center">
 
-🔹 Built scalable healthcare analytics pipelines using PySpark, Spark SQL & Delta Lake  
-🔹 Implemented Medallion Architecture (Bronze → Silver → Gold)  
-🔹 Developed schema enforcement & schema evolution pipelines  
-🔹 Processed complex nested healthcare datasets for analytics readiness  
-🔹 Maintained referential integrity across patient, diagnosis & treatment entities
+| 🚀 Project | 🌟 Highlights |
+|------------|----------------|
+| 🏥 **NextGen Healthcare Analytics** | Built Medallion Architecture using Delta Lake, PySpark & Spark SQL for scalable healthcare analytics pipelines |
+| 💳 **Real-Time Fraud Detection System** | Developed real-time anomaly detection pipelines using Structured Streaming & Isolation Forest |
+| ⚖️ **LexAI — Legal RAG Platform** | Engineered Legal RAG & semantic intelligence platform using vector search & embeddings |
+| 🎤 **Virtual Interview Studio** | AI-powered interview platform with speech-to-text, code evaluation & intelligent scoring |
+| 👔 **AI Virtual Tailor & Stylist** | Built AI-driven body analysis & virtual try-on recommendation platform |
+| 🌍 **GeoAttend EAMS** | Enterprise attendance platform with geolocation tracking & AI-powered analytics |
+| 🚌 **Bus Bay Optimization System** | YOLO-powered real-time bus occupancy detection & driver notification platform |
+| ♻️ **Garbage Tracking System** | Smart environmental monitoring & waste tracking system |
 
-### ⚙️ Stack
-`PySpark` `Spark SQL` `Delta Lake` `Databricks` `Lakehouse`
-
----
-
-## 💳 Real-Time Financial Fraud Detection & Monitoring System
-### Role: Data Engineer
-
-🔹 Built real-time fraud detection pipelines using Structured Streaming  
-🔹 Implemented Isolation Forest anomaly detection  
-🔹 Developed streaming-safe ML inference architecture  
-🔹 Created Gold-layer fraud analytics datasets for monitoring dashboards  
-🔹 Designed low-latency fault-tolerant streaming systems
-
-### ⚙️ Stack
-`Databricks` `PySpark` `Structured Streaming` `ML` `Delta Lake`
-
-🔗 Repository:
-[Real-Time Fraud Detection System](https://github.com/angadkumar9128/Real-Time-Financial-Fraud-Detection-Monitoring-System)
-
----
-
-## ⚖️ LexAI — Legal RAG & Semantic Intelligence Platform
-### Role: Data Engineer
-
-🔹 Built scalable Legal RAG platform on Lakehouse architecture  
-🔹 Developed semantic embeddings & vector search pipelines  
-🔹 Enabled intelligent legal retrieval & contextual legal assistance  
-🔹 Designed AI-ready legal knowledge systems
-
-### ⚙️ Stack
-`RAG` `Vector Search` `Embeddings` `GenAI` `Lakehouse`
-
-🔗 Repository:
-[LexAI Legal RAG Platform](https://github.com/angadkumar9128/lexai-legal-rag-platform)
-
----
-
-## 🎤 Virtual Interview Studio
-
-🔹 End-to-end AI-powered interview platform  
-🔹 Real-time audio/video interview recording  
-🔹 Speech-to-text transcription system  
-🔹 Automated code evaluation engine  
-🔹 AI-powered candidate scoring & analytics reports  
-🔹 Interactive PDF & HTML performance reporting
-
-### ⚙️ Stack
-`Python` `JavaScript` `Speech Recognition` `AI` `Code Evaluation`
-
-🔗 Repository:
-[Virtual Interview Studio](https://github.com/angadkumar9128/Virtual-Interview-Studio)
-
----
-
-## 👔 AI Virtual Tailor & Stylist
-
-🔹 AI-powered virtual try-on & body measurement platform  
-🔹 Intelligent outfit & accessory recommendations  
-🔹 Real-time image analysis & visualization  
-🔹 Personalized fashion intelligence system
-
-### ⚙️ Stack
-`AI` `Computer Vision` `Image Processing` `Fashion AI`
-
-🔗 Live Demo:
-https://ai-virtual-tailor-and-stylist.vercel.app
-
----
-
-## 🌍 GeoAttend — Enterprise Attendance Management System
-
-🔹 Geolocation-based enterprise attendance tracking  
-🔹 AI-powered attendance insights & analytics  
-🔹 Real-time employee monitoring system  
-🔹 Firebase-powered real-time synchronization  
-🔹 Enterprise-grade dashboard & reporting
-
-### ⚙️ Stack
-`TypeScript` `React` `Firebase` `AI` `Geolocation`
-
----
-
-## 🚌 Bus Bay Optimization System
-
-🔹 Real-time YOLO-based bus bay monitoring system  
-🔹 Firebase-integrated live notifications for drivers  
-🔹 Intelligent occupancy detection using Computer Vision  
-🔹 Android integration for operational optimization
-
-### ⚙️ Stack
-`YOLO` `OpenCV` `Firebase` `Android`
-
----
-
-## ♻️ Integrated Garbage Tracking & Monitoring System
-
-🔹 Smart monitoring & waste management platform  
-🔹 Real-time tracking & operational visibility  
-🔹 Data-driven environmental monitoring system
-
-🔗 Repository:
-[Garbage Tracking System](https://github.com/angadkumar9128/Integrated-Garbage-Tracking-and-Monitoring-System)
+</div>
 
 ---
 
 # 🏆 Certifications & Achievements
 
-🏅 Databricks Certified Data Engineer  
-🏅 Certified Data Analyst — L&T  
-🏅 NPTEL Certified in Machine Learning & Python  
-🏅 Cisco Certified  
-🏅 Smart India Hackathon Contributor  
-🏅 Multiple Certifications in AI, ML, Data Analytics & Cloud
+<div align="center">
+
+| 🏅 Achievement | 🚀 Description |
+|----------------|----------------|
+| Databricks Certified Engineer | Certified in scalable Data Engineering & Lakehouse Architecture |
+| L&T Certified Data Analyst | Advanced analytics & business intelligence certification |
+| NPTEL Certified | Machine Learning & Python Programming |
+| Cisco Certified | Networking & technology certification |
+| Smart India Hackathon | National-level innovation project contributor |
+| AI & Data Certifications | Multiple certifications across AI, ML, Data Analytics & Cloud |
+
+</div>
 
 ---
 
@@ -230,25 +130,25 @@ https://ai-virtual-tailor-and-stylist.vercel.app
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=angadkumar9128&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=angadkumar9128&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angadkumar9128&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angadkumar9128&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/><br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=angadkumar9128&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
+
+# 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=angadkumar9128&theme=tokyonight&hide_border=true" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=angadkumar9128&theme=tokyo-night&hide_border=true"/>
 
 </div>
-
----
-
-# 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=angadkumar9128&theme=tokyo-night&hide_border=true"/>
 
 ---
 
@@ -256,26 +156,15 @@ https://ai-virtual-tailor-and-stylist.vercel.app
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=angadkumar9128&theme=tokyonight&no-frame=true&margin-w=10&row=1"/>
+<img src="https://github-profile-trophy.vercel.app/?username=angadkumar9128&theme=tokyonight&no-frame=true&row=1&margin-w=15"/>
 
 </div>
 
 ---
 
-# 🤝 Open Source & Collaboration
-
-✅ Open Source Contributor  
-✅ AI & Data Engineering Projects  
-✅ Enterprise System Development  
-✅ Real-Time Analytics Platforms  
-✅ End-to-End Project Architecture  
-✅ Full Stack & Mobile Solutions
-
----
-
 # 🌐 Connect With Me
 
-<p align="center">
+<div align="center">
 
 <a href="https://linkedin.com/in/angad-kumar-24522022a">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -289,12 +178,22 @@ https://ai-virtual-tailor-and-stylist.vercel.app
 <img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</p>
+</div>
 
 ---
 
 # 💡 Engineering Philosophy
 
-### "Building scalable intelligent systems by combining Data Engineering, AI, and Software Engineering."
+<div align="center">
+
+### ⚡ “Building scalable intelligent systems by combining Data Engineering, AI, and Software Engineering.” ⚡
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F2027,50:203A43,100:2C5364"/>
 
 </div>
