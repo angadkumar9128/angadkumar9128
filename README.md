@@ -24,9 +24,9 @@
 
 <img align="right" alt="coding" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGR4aW1tOGVtb3o5NTh5YWhiMGRibnI3a2JrYmNxOHM2aGR6Y3ZhNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif">
 
-### ⚡ Engineering Data-Driven & AI-Powered Systems
+### ⚡ Data Engineering • Streaming Systems • Applied AI
 
-I am a **Data Engineer** passionate about building:
+I’m a **Data Engineer working across data platforms and applied AI**, focused on reliable pipelines, lakehouse patterns, streaming ingestion, and practical LLM applications.
 
 - ⚡ Scalable Data Pipelines
 - 🧠 AI & GenAI Applications
@@ -45,6 +45,8 @@ Data Engineering:
   - Delta Lake
   - ETL/ELT Pipelines
   - Structured Streaming
+  - Kafka / Redpanda
+  - Airflow & dbt
   - Lakehouse Architecture
 
 AI & GenAI:
@@ -54,6 +56,8 @@ AI & GenAI:
   - Semantic Search
   - LLM Applications
   - Agentic AI
+  - LangChain / LangGraph
+  - Vector Search & Reranking
 
 Cloud & Development:
   - AWS
@@ -102,24 +106,24 @@ Cloud & Development:
 
 **Event streaming platform**
 
-Upload and stream structured data through a Kafka-compatible API, with operational visibility and a Databricks path.
+Kafka-compatible ingestion with FastAPI, Redpanda, operational visibility, and a Databricks streaming path.
 
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Redpanda-E43D30?style=flat-square" /> <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" />
 
-**Highlights:** CSV/JSON/JSONL/Parquet ingestion · DLQ · schema versioning · consumer lag
+**Highlights:** Large-file ingestion · DLQ · schema evolution · consumer lag
 
 </td>
 <td width="50%" valign="top">
 
 ### 🏥 [FHIR Healthcare Analytics](https://github.com/angadkumar9128/FHIR_Healthcare_Analytics)
 
-**Healthcare lakehouse pipeline**
+**Healthcare lakehouse**
 
-Transforms nested FHIR healthcare resources into analytics-ready datasets with layered data processing.
+Transforms nested FHIR resources into analytics-ready datasets using layered data engineering.
 
 <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" /> <img src="https://img.shields.io/badge/Delta_Lake-00A1E0?style=flat-square" /> <img src="https://img.shields.io/badge/Unity_Catalog-FF3621?style=flat-square" />
 
-**Highlights:** Bronze → Silver → Gold · resource normalization · governance concepts
+**Highlights:** Bronze → Silver → Gold · normalization · governance concepts
 
 </td>
 </tr>
@@ -130,11 +134,11 @@ Transforms nested FHIR healthcare resources into analytics-ready datasets with l
 
 **Streaming analytics + anomaly scoring**
 
-A streaming-oriented transaction analytics project designed to surface suspicious activity and fraud indicators.
+Transaction analytics designed to surface suspicious activity and fraud indicators.
 
-<img src="https://img.shields.io/badge/Structured_Streaming-E25A1C?style=flat-square" /> <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" /> <img src="https://img.shields.io/badge/Delta_Lake-00A1E0?style=flat-square" />
+<img src="https://img.shields.io/badge/Spark_Streaming-E25A1C?style=flat-square" /> <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" /> <img src="https://img.shields.io/badge/Delta_Lake-00A1E0?style=flat-square" />
 
-**Highlights:** Medallion Architecture · Isolation Forest · experiment tracking · Gold metrics
+**Highlights:** Medallion Architecture · Isolation Forest · experiment tracking
 
 </td>
 <td width="50%" valign="top">
@@ -143,45 +147,116 @@ A streaming-oriented transaction analytics project designed to surface suspiciou
 
 **Indian legal research assistant**
 
-Combines document retrieval with grounded legal research workflows and a Streamlit interface.
+Retrieval-augmented research with local and notebook-oriented execution paths.
 
 <img src="https://img.shields.io/badge/RAG-6C5CE7?style=flat-square" /> <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square" /> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
 
-**Highlights:** Hybrid retrieval · embeddings · optional reranking · local GGUF models
+**Highlights:** Hybrid retrieval · embeddings · optional reranking · local GGUF
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🎬 [CreatorFlow AI](https://github.com/angadkumar9128/CreatorFlow-AI)
+### 📡 [PulseSphere](https://github.com/angadkumar9128/PulseSphere)
 
-**Short-form content creation workflow**
+**Social sentiment analytics**
 
-Creates content plans and assists with scripts, captions, hashtags, and vertical video rendering in the browser.
+End-to-end pipeline processing social data, analyzing sentiment, and preparing business insights.
 
-<img src="https://img.shields.io/badge/AI_Content-7C3AED?style=flat-square" /> <img src="https://img.shields.io/badge/Canvas_+_MediaRecorder-222222?style=flat-square" /> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" /> <img src="https://img.shields.io/badge/NLP-7C3AED?style=flat-square" /> <img src="https://img.shields.io/badge/Medallion-00A1E0?style=flat-square" />
 
-**Highlights:** 9:16 rendering · provider fallback · social-ready content workflow
+**Highlights:** Bronze/Silver/Gold · sentiment trends · hashtag analytics
 
 </td>
+<td width="50%" valign="top">
+
+### 🎬 [CreatorFlow AI / Reel Desk](https://github.com/angadkumar9128/CreatorFlow-AI)
+
+**AI-assisted short-form content**
+
+Creates scripts, captions, hashtags, scene imagery, and browser-rendered vertical videos.
+
+<img src="https://img.shields.io/badge/Generative_AI-7C3AED?style=flat-square" /> <img src="https://img.shields.io/badge/Canvas_+_MediaRecorder-222222?style=flat-square" /> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+
+**Highlights:** 9:16 rendering · image-provider fallback · content workflow
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🛒 [Retail Analytics Pipeline](https://github.com/angadkumar9128/Enterprise-Retail-Analytics-Transformation-Pipeline)
 
 **Analytics engineering & ELT**
 
-Demonstrates a layered retail data transformation workflow with orchestration, modeling, and data-quality practices.
+Layered retail data workflow combining orchestration, transformations, and data-quality practices.
 
 <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" /> <img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" /> <img src="https://img.shields.io/badge/Delta_Lake-00A1E0?style=flat-square" />
 
 **Highlights:** Medallion Architecture · ELT modeling · orchestration · data quality
 
 </td>
+<td width="50%" valign="top">
+
+### 🎤 [Virtual Interview Studio](https://github.com/angadkumar9128/Virtual-Interview-Studio)
+
+**Interview practice and feedback**
+
+Interview workflow with response recording, transcription, code evaluation, and performance reports.
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+
+**Highlights:** Audio/video capture · speech-to-text · code evaluation · reports
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧥 [AI Virtual Tailor & Stylist](https://github.com/angadkumar9128/Ai-Virtual-Tailor_And_Stylist)
+
+**AI-powered personal styling**
+
+Interactive styling experience with image-based analysis, recommendations, and outfit visualization.
+
+<img src="https://img.shields.io/badge/AI_Applications-7C3AED?style=flat-square" /> <img src="https://img.shields.io/badge/Computer_Vision-2563EB?style=flat-square" />
+
+**Highlights:** Style recommendations · outfit visualization · [Live demo](https://ai-virtual-tailor-and-stylist.vercel.app)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 [Smart Legal Assistant](https://github.com/angadkumar9128/Smart-Legal-Assistant-for-Indian-Law)
+
+**Legal-tech application**
+
+Domain-focused application for Indian legal information workflows.
+
+<img src="https://img.shields.io/badge/LegalTech-6C5CE7?style=flat-square" /> <img src="https://img.shields.io/badge/Applied_AI-2563EB?style=flat-square" />
+
+**Highlights:** Legal information workflow · focused user experience
+
+</td>
 </tr>
 </table>
 
 </div>
+
+### 🧭 Explore by engineering focus
+
+<div align="center">
+
+| Focus | Projects |
+|:--|:--|
+| **Data Engineering & Streaming** | [StreamHub](https://github.com/angadkumar9128/StreamHub) · [FHIR Lakehouse](https://github.com/angadkumar9128/FHIR_Healthcare_Analytics) · [Fraud Detection](https://github.com/angadkumar9128/Real-Time-Financial-Fraud-Detection-Monitoring-System) · [PulseSphere](https://github.com/angadkumar9128/PulseSphere) |
+| **AI / GenAI / RAG** | [LexAI v2](https://github.com/angadkumar9128/lexai-legal-rag-platform-v2) · [CreatorFlow AI](https://github.com/angadkumar9128/CreatorFlow-AI) · [AI Virtual Tailor](https://github.com/angadkumar9128/Ai-Virtual-Tailor_And_Stylist) |
+| **Analytics Engineering** | [Retail Analytics](https://github.com/angadkumar9128/Enterprise-Retail-Analytics-Transformation-Pipeline) |
+| **Application Engineering** | [Virtual Interview Studio](https://github.com/angadkumar9128/Virtual-Interview-Studio) · [Smart Legal Assistant](https://github.com/angadkumar9128/Smart-Legal-Assistant-for-Indian-Law) |
+
+</div>
+
+> **Portfolio note:** Featured descriptions summarize repository scope and do not imply every component is production-deployed. Private repositories are not exposed in this public README.
 
 ---
 # 🏆 Certifications & Achievements
@@ -202,19 +277,27 @@ Demonstrates a layered retail data transformation workflow with orchestration, m
 <div align="center">
 
 <a href="https://github.com/angadkumar9128">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=angadkumar9128&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub profile statistics" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=angadkumar9128&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" alt="Public GitHub statistics" />
 </a>
 <a href="https://github.com/angadkumar9128">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angadkumar9128&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most-used programming languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angadkumar9128&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages in public repositories" />
 </a>
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=angadkumar9128&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+<a href="https://github.com/angadkumar9128">
+  <img width="70%" src="https://streak-stats.demolab.com?user=angadkumar9128&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</a>
 
 <br/>
 
-<sub>Stats cards are provided by public services; if one is temporarily rate-limited, the other profile sections remain available.</sub>
+<img src="https://img.shields.io/badge/Focus-Data%20Engineering-0A84FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Focus-Streaming-00A1E0?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Focus-Applied%20AI-7C3AED?style=for-the-badge" />
+
+<br/><br/>
+
+<sub>Stats cards use a public community service and may occasionally be rate-limited. Public cards do not expose private repository details.</sub>
 
 </div>
 
