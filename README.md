@@ -180,7 +180,7 @@ A retail analytics project organized around a modern data stack and Medallion Ar
 
 ### Software & Tooling
 
-<img src="https://skillicons.dev/icons?i=git,github,linux, javascript,react,nodejs,django" alt="Development tools and frameworks"/>
+<img src="https://skillicons.dev/icons?i=git,github,linux,js,react,nodejs,django" alt="Development tools and frameworks"/>
 
 **Python · SQL · Java · JavaScript · FastAPI · Django · REST APIs · Git · GitHub · Docker**
 
@@ -192,7 +192,7 @@ A retail analytics project organized around a modern data stack and Medallion Ar
 
 - **Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate** — issued October 2025.
 - **Oracle Cloud Database Services 2025 Certified Professional** — issued October 2025.
-- **Databricks Fundamentals accreditation** — issued November 2025; verify current validity before presenting as active.
+- **Databricks Fundamentals accreditation** — issued November 3, 2025; expires November 3, 2026.
 
 > I prefer to keep certification details specific and verifiable. I have not included unverified performance figures, customer counts or adoption claims in this portfolio.
 
