@@ -276,28 +276,64 @@ Domain-focused application for Indian legal information workflows.
 
 <div align="center">
 
+### 📌 Profile at a glance
+
 <a href="https://github.com/angadkumar9128">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=angadkumar9128&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" alt="Public GitHub statistics" />
+  <img src="https://img.shields.io/badge/GitHub-Angad%20Kumar-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://github.com/angadkumar9128">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angadkumar9128&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages in public repositories" />
+<a href="https://github.com/angadkumar9128?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore-Repositories-2F81F7?style=for-the-badge&logo=github" />
+</a>
+<a href="https://github.com/angadkumar9128?tab=stars">
+  <img src="https://img.shields.io/badge/Explore-Stars-F1C40F?style=for-the-badge&logo=githubsponsors&logoColor=black" />
 </a>
 
 <br/><br/>
 
+<table>
+<tr>
+<td align="center" width="50%">
+
+**💻 Most-used languages**
+
 <a href="https://github.com/angadkumar9128">
-  <img width="70%" src="https://streak-stats.demolab.com?user=angadkumar9128&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angadkumar9128&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=420" alt="Top languages in public repositories" />
 </a>
+
+</td>
+<td align="center" width="50%">
+
+**🔥 Contribution streak**
+
+<a href="https://github.com/angadkumar9128">
+<img width="100%" src="https://streak-stats.demolab.com?user=angadkumar9128&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</a>
+
+</td>
+</tr>
+</table>
+
+### 🏗️ Engineering focus
+
+<img src="https://img.shields.io/badge/DATA%20ENGINEERING-PySpark%20%7C%20Delta%20Lake%20%7C%20Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/STREAMING-Kafka%20%7C%20Redpanda-1F6FEB?style=for-the-badge" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/Focus-Data%20Engineering-0A84FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Focus-Streaming-00A1E0?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Focus-Applied%20AI-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI%20%26%20RAG-LLMs%20%7C%20Vector%20Search-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ANALYTICS-Airflow%20%7C%20dbt-16A34A?style=for-the-badge" />
 
 <br/><br/>
 
-<sub>Stats cards use a public community service and may occasionally be rate-limited. Public cards do not expose private repository details.</sub>
+### 🌐 A look inside a data platform
+
+<img width="78%" src="https://raw.githubusercontent.com/angadkumar9128/PulseSphere/main/architecture/architecture_diagram.png" alt="PulseSphere data engineering architecture diagram" />
+
+<sub>Architecture visual from PulseSphere: ingestion, layered processing, sentiment analytics, and dashboard-ready outputs.</sub>
+
+<br/><br/>
+
+<sub>Dashboard reliability note: the total-commits card has been removed because the public stats service intermittently fails while fetching commit totals. Language and streak cards are independent services and may still be temporarily rate-limited.</sub>
 
 </div>
 
