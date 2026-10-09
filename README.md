@@ -1,227 +1,192 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0B132B,45:1C2541,100:3A506B&text=ANGAD%20KUMAR&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=DATA%20ENGINEERING%20%7C%20AI%20%26%20GENAI&descSize=18&descAlignY=58&descColor=5BC0BE" alt="Angad Kumar — Data Engineering and AI"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F2027,50:203A43,100:2C5364&text=ANGAD%20KUMAR&fontSize=55&fontAlignY=40&desc=Data%20Engineer%20•%20AI%20Engineer%20•%20GenAI%20Developer&descAlignY=60&animation=fadeIn&fontColor=ffffff"/>
 
-<p>
-  <a href="https://www.linkedin.com/in/angadkumar54/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:angadkumar9128@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/angadkumar9128"><img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-</p>
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=angadkumar9128&style=flat-square&color=3A506B&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Databricks+Certified+Data+Engineer;Building+Scalable+Data+%26+AI+Platforms;AI+%7C+ML+%7C+DL+%7C+GenAI+%7C+RAG+%7C+Agentic+AI;Lakehouse+Architecture+%7C+Streaming+Pipelines;Full+Stack+%7C+Cloud+%7C+Enterprise+Systems" />
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=angadkumar9128&label=Profile+Views&color=blueviolet&style=for-the-badge" />
+
+<img src="https://img.shields.io/github/followers/angadkumar9128?style=for-the-badge&logo=github&color=black" />
+
+<img src="https://img.shields.io/github/stars/angadkumar9128?style=for-the-badge&logo=github&color=yellow" />
+
+<img src="https://img.shields.io/badge/Databricks-Certified-red?style=for-the-badge&logo=databricks&logoColor=white" />
 
 </div>
 
 ---
 
-## 👋 About Me
+# 🚀 About Me
 
-I'm a **Data Engineer working at the intersection of data platforms and AI engineering**. I enjoy turning raw, semi-structured and streaming data into reliable datasets—and building AI applications that make information easier to use.
+<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGR4aW1tOGVtb3o5NTh5YWhiMGRibnI3a2JrYmNxOHM2aGR6Y3ZhNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif">
 
-**What I focus on**
-- **Data platforms:** ELT/ETL, PySpark, Spark SQL, Delta Lake and Medallion Architecture.
-- **Streaming systems:** Kafka-compatible event ingestion, Structured Streaming and downstream lakehouse pipelines.
-- **AI engineering:** RAG pipelines, semantic retrieval, reranking and LLM-backed applications.
-- **Production-minded development:** APIs, containers, data quality, observability and clear setup documentation.
+### ⚡ Engineering Data-Driven & AI-Powered Systems
 
-I'm interested in **Data Engineer, AI Engineer and Data/AI Platform Engineer** opportunities.
+I am a **Databricks Certified Data Engineer** passionate about building:
 
----
+- ⚡ Scalable Data Pipelines
+- 🧠 AI & GenAI Applications
+- 📊 Lakehouse Architectures
+- 🔥 Real-Time Streaming Systems
+- 🚀 Enterprise Analytics Platforms
+- 🤖 RAG & Agentic AI Systems
+- 🌐 Full Stack & Mobile Applications
 
-## 🚀 Selected Projects
+### 💡 Core Expertise
 
-These projects are the best starting points for reviewing my recent engineering work.
+```yaml
+Data Engineering:
+  - PySpark
+  - Spark SQL
+  - Delta Lake
+  - ETL/ELT Pipelines
+  - Structured Streaming
+  - Lakehouse Architecture
 
-<table>
-<tr>
-<td width="50%" valign="top">
+AI & GenAI:
+  - Machine Learning
+  - Deep Learning
+  - RAG Systems
+  - Semantic Search
+  - LLM Applications
+  - Agentic AI
 
-### 🌊 [StreamHub](https://github.com/angadkumar9128/StreamHub)
-
-**Kafka-compatible streaming ingestion platform**
-
-A self-hostable streaming service built with FastAPI, Redpanda and PostgreSQL, with a path into Databricks Lakehouse processing.
-
-**Highlights**
-- REST and batch event producers, topic/partition configuration and retention.
-- Incremental CSV, JSON, JSONL and Parquet ingestion.
-- Dead-letter topics, versioned schema checks, API-key roles and rate limiting.
-- Kafka consumer-group lag inspection and a REST receiver.
-- Databricks Structured Streaming starter and Bronze → Silver workflow guidance.
-
-**Stack:** Python · FastAPI · Redpanda/Kafka · PostgreSQL · Docker · Databricks · Delta Lake
-
-[Repository →](https://github.com/angadkumar9128/StreamHub)
-
-</td>
-<td width="50%" valign="top">
-
-### 🏥 [FHIR Healthcare Analytics](https://github.com/angadkumar9128/FHIR_Healthcare_Analytics)
-
-**Healthcare data lakehouse pipeline**
-
-An implementation for transforming nested FHIR JSON bundles into governed, analytics-ready datasets using a Medallion Architecture. The repository documents a sample built from synthetic Synthea data.
-
-**Highlights**
-- Bronze ingestion of raw FHIR bundles with metadata.
-- Silver normalization of clinical resources such as Patient, Encounter, Observation and Condition.
-- Gold-layer datasets for clinical and claims analytics.
-- Delta Lake, schema evolution and Unity Catalog governance concepts.
-
-**Stack:** Databricks · PySpark · Spark SQL · Delta Lake · Unity Catalog · FHIR JSON
-
-[Repository →](https://github.com/angadkumar9128/FHIR_Healthcare_Analytics)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 💳 [Real-Time Financial Fraud Detection](https://github.com/angadkumar9128/Real-Time-Financial-Fraud-Detection-Monitoring-System)
-
-**Streaming analytics and anomaly detection**
-
-A project demonstrating a streaming-oriented fraud-monitoring pipeline from transaction data to anomaly scores and business-facing metrics.
-
-**Highlights**
-- Bronze, Silver and Gold data layers.
-- Transaction cleaning, enrichment and feature preparation.
-- Isolation Forest scoring with MLflow tracking.
-- Gold outputs for fraud predictions, time-based metrics and high-risk entities.
-- Databricks SQL dashboard use cases.
-
-**Stack:** Databricks · Structured Streaming · Delta Lake · PySpark · Isolation Forest · MLflow
-
-[Repository →](https://github.com/angadkumar9128/Real-Time-Financial-Fraud-Detection-Monitoring-System)
-
-</td>
-<td width="50%" valign="top">
-
-### ⚖️ [LexAI — Legal RAG Platform v2](https://github.com/angadkumar9128/lexai-legal-rag-platform-v2)
-
-**Retrieval-grounded legal research assistant**
-
-A dual-profile RAG application with a Databricks notebook pipeline and a local Streamlit experience for legal-document retrieval and question answering.
-
-**Highlights**
-- PDF-to-lakehouse workflow: Bronze → Silver → Gold.
-- Embedding generation and legal QA notebooks.
-- Local FAISS and lexical retrieval with optional cross-encoder reranking.
-- Optional local GGUF model generation and extractive fallback.
-- FastAPI adapter and Streamlit UI components.
-
-**Stack:** Python · Databricks · PySpark · FAISS · Embeddings · Reranking · Streamlit · FastAPI
-
-[Repository →](https://github.com/angadkumar9128/lexai-legal-rag-platform-v2)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎬 [CreatorFlow AI](https://github.com/angadkumar9128/CreatorFlow-AI)
-
-**AI-assisted short-form content studio**
-
-A web app that generates scripts, captions and hashtags, creates scene images through configurable providers, and renders vertical video in the browser.
-
-**Highlights**
-- LLM-provider fallback for text generation.
-- Image-provider fallback for scene artwork.
-- Canvas and MediaRecorder-based video rendering.
-- 9:16 output workflow, captions and social-post metadata.
-- Vercel-oriented deployment instructions.
-
-**Stack:** JavaScript · Next.js · LLM APIs · Image APIs · Canvas · MediaRecorder · Vercel
-
-[Repository →](https://github.com/angadkumar9128/CreatorFlow-AI)
-
-</td>
-<td width="50%" valign="top">
-
-### 🛒 [Retail Analytics Transformation Pipeline](https://github.com/angadkumar9128/Enterprise-Retail-Analytics-Transformation-Pipeline)
-
-**Modern ELT and analytics engineering**
-
-A retail analytics project organized around a modern data stack and Medallion Architecture, with orchestration and transformation patterns documented in the repository.
-
-**Areas covered**
-- Raw-to-curated data pipeline design.
-- Apache Airflow orchestration concepts.
-- dbt transformation workflows.
-- Databricks and Delta Lake compute.
-- Data-quality and analytics use cases for retail operations.
-
-**Stack:** Python · Airflow · dbt · Databricks · Delta Lake
-
-[Repository →](https://github.com/angadkumar9128/Enterprise-Retail-Analytics-Transformation-Pipeline)
-
-</td>
-</tr>
-</table>
+Cloud & Development:
+  - AWS
+  - Azure
+  - Firebase
+  - React
+  - Node.js
+  - Android Development
+```
 
 ---
 
-## 🧰 Technical Skills
+# ⚡ Tech Stack
 
 <div align="center">
 
-### Data Engineering & Platforms
+## 🧠 AI / ML / GenAI
 
-<img src="https://skillicons.dev/icons?i=python,postgres,mysql,mongodb,kafka,docker,aws,azure" alt="Python, databases, Kafka, Docker, AWS and Azure"/>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" />
 
-**PySpark · Spark SQL · Delta Lake · Medallion Architecture · Structured Streaming · ELT/ETL · Databricks · Unity Catalog · Airflow · Snowflake · Azure Data Factory**
+<br/><br/>
 
-### AI & GenAI
+## 📊 Data Engineering & Cloud
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,fastapi" alt="PyTorch, TensorFlow and FastAPI"/>
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,kafka,mongodb,mysql,postgres,firebase" />
 
-**RAG · LLM applications · Embeddings · Semantic Search · Vector Retrieval · Reranking · Prompt Engineering · LangChain · LangGraph · Hugging Face**
+<br/><br/>
 
-### Software & Tooling
+## 💻 Full Stack & Mobile Development
 
-<img src="https://skillicons.dev/icons?i=git,github,linux,js,react,nodejs,django" alt="Development tools and frameworks"/>
-
-**Python · SQL · Java · JavaScript · FastAPI · Django · REST APIs · Git · GitHub · Docker**
+<img src="https://skillicons.dev/icons?i=react,nodejs,django,ts,js,html,css,bootstrap,java,androidstudio" />
 
 </div>
 
 ---
 
-## 🏅 Certifications
-
-- **Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate** — issued October 2025.
-- **Oracle Cloud Database Services 2025 Certified Professional** — issued October 2025.
-- **Databricks Fundamentals accreditation** — issued November 3, 2025; expires November 3, 2026.
-
-> I prefer to keep certification details specific and verifiable. I have not included unverified performance figures, customer counts or adoption claims in this portfolio.
-
----
-
-## 📊 GitHub Activity
+# 🚀 Featured Engineering Projects
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=angadkumar9128&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angadkumar9128&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used languages"/>
+| 🚀 Project | 🌟 Engineering Highlights |
+|------------|---------------------------|
+| 🌊 **[StreamHub — Event Hubs-Style Streaming Platform](https://github.com/angadkumar9128/StreamHub)** | FastAPI + Redpanda event ingestion, incremental CSV/JSON/JSONL/Parquet uploads, dead-letter topics, schema versioning, consumer-group lag inspection, and Databricks Structured Streaming starter. |
+| 🏥 **[FHIR Healthcare Analytics](https://github.com/angadkumar9128/FHIR_Healthcare_Analytics)** | Databricks Lakehouse pipeline for nested FHIR JSON, Bronze → Silver → Gold transformations, resource normalization, Delta Lake and Unity Catalog governance concepts. |
+| 💳 **[Real-Time Financial Fraud Detection](https://github.com/angadkumar9128/Real-Time-Financial-Fraud-Detection-Monitoring-System)** | Streaming-oriented transaction processing, Medallion Architecture, Isolation Forest anomaly scoring, MLflow tracking and Gold-layer fraud metrics. |
+| ⚖️ **[LexAI — Legal RAG Platform v2](https://github.com/angadkumar9128/lexai-legal-rag-platform-v2)** | Legal-document RAG with Databricks notebooks, embeddings, hybrid FAISS/lexical retrieval, optional cross-encoder reranking, local GGUF generation and Streamlit UI. |
+| 🎬 **[CreatorFlow AI](https://github.com/angadkumar9128/CreatorFlow-AI)** | AI-assisted scripts, captions and hashtags, image-provider fallback, browser-based 9:16 video rendering with Canvas + MediaRecorder, and Vercel deployment workflow. |
+| 🛒 **[Retail Analytics Transformation Pipeline](https://github.com/angadkumar9128/Enterprise-Retail-Analytics-Transformation-Pipeline)** | Modern retail ELT project covering Medallion Architecture, Airflow orchestration, dbt transformations, Databricks/Delta Lake and data-quality strategy. |
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=angadkumar9128&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity"/>
+</div>
+---
+
+# 🏆 Certifications & Achievements
+
+<div align="center">
+
+| 🏅 Certification | 📌 Details |
+|------------------|------------|
+| Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate | Issued October 2025 |
+| Oracle Cloud Database Services 2025 Certified Professional | Issued October 2025; expires October 2027 |
+| Databricks Fundamentals accreditation | Issued November 3, 2025; expires November 3, 2026 |
+
+</div>
+---
+
+# 📊 Engineering Dashboard
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=angadkumar9128&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=angadkumar9128&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/><br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=angadkumar9128&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## 🤝 Let's Connect
-
-I'm open to conversations about **data engineering, lakehouse architecture, streaming systems, applied GenAI and AI platform engineering**.
+# 📈 Contribution Activity
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/angadkumar54/"><img src="https://img.shields.io/badge/LinkedIn-Angad%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"/></a>
-<a href="mailto:angadkumar9128@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Angad"/></a>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=angadkumar9128&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
+---
+
+# 🏅 GitHub Achievements
+
 <div align="center">
-<sub>Build reliable data foundations. Turn data into useful intelligence.</sub>
+
+<img src="https://github-profile-trophy.vercel.app/?username=angadkumar9128&theme=tokyonight&no-frame=true&row=1&margin-w=15"/>
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/angad-kumar-24522022a">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:angadkumar9128@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/angadkumar9128">
+<img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 💡 Engineering Philosophy
+
+<div align="center">
+
+### ⚡ “Building scalable intelligent systems by combining Data Engineering, AI, and Software Engineering.” ⚡
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F2027,50:203A43,100:2C5364"/>
+
 </div>
