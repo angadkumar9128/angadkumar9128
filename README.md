@@ -276,64 +276,66 @@ Domain-focused application for Indian legal information workflows.
 
 <div align="center">
 
-### 📌 Profile at a glance
-
-<a href="https://github.com/angadkumar9128">
-  <img src="https://img.shields.io/badge/GitHub-Angad%20Kumar-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://github.com/angadkumar9128?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore-Repositories-2F81F7?style=for-the-badge&logo=github" />
-</a>
-<a href="https://github.com/angadkumar9128?tab=stars">
-  <img src="https://img.shields.io/badge/Explore-Stars-F1C40F?style=for-the-badge&logo=githubsponsors&logoColor=black" />
-</a>
-
-<br/><br/>
-
 <table>
 <tr>
 <td align="center" width="50%">
 
-**💻 Most-used languages**
+### 💻 Languages
 
-<a href="https://github.com/angadkumar9128">
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angadkumar9128&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=420" alt="Top languages in public repositories" />
-</a>
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angadkumar9128&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&card_width=400" alt="Top languages in public repositories" />
 
 </td>
 <td align="center" width="50%">
 
-**🔥 Contribution streak**
+### 🔥 Contribution streak
 
-<a href="https://github.com/angadkumar9128">
 <img width="100%" src="https://streak-stats.demolab.com?user=angadkumar9128&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-</a>
 
 </td>
 </tr>
 </table>
 
-### 🏗️ Engineering focus
+### 🧰 My engineering toolkit
 
-<img src="https://img.shields.io/badge/DATA%20ENGINEERING-PySpark%20%7C%20Delta%20Lake%20%7C%20Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
-<img src="https://img.shields.io/badge/STREAMING-Kafka%20%7C%20Redpanda-1F6FEB?style=for-the-badge" />
+<img width="72%" src="https://skillicons.dev/icons?i=python,postgres,mongodb,docker,aws,azure&theme=dark" alt="Python, databases, Docker, AWS and Azure" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/AI%20%26%20RAG-LLMs%20%7C%20Vector%20Search-7C3AED?style=for-the-badge" />
-<img src="https://img.shields.io/badge/ANALYTICS-Airflow%20%7C%20dbt-16A34A?style=for-the-badge" />
+<img width="72%" src="https://skillicons.dev/icons?i=apache,fastapi,kafka,githubactions,git,linux&theme=dark" alt="Apache, FastAPI, Kafka, GitHub Actions, Git and Linux" />
 
 <br/><br/>
 
-### 🌐 A look inside a data platform
+<table>
+<tr>
+<td align="center" width="33%">
 
-<img width="78%" src="https://raw.githubusercontent.com/angadkumar9128/PulseSphere/main/architecture/architecture_diagram.png" alt="PulseSphere data engineering architecture diagram" />
+**DATA PLATFORMS**
 
-<sub>Architecture visual from PulseSphere: ingestion, layered processing, sentiment analytics, and dashboard-ready outputs.</sub>
+<img width="90%" src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
 
-<br/><br/>
+<img width="90%" src="https://img.shields.io/badge/Delta_Lake-00A1E0?style=for-the-badge" />
 
-<sub>Dashboard reliability note: the total-commits card has been removed because the public stats service intermittently fails while fetching commit totals. Language and streak cards are independent services and may still be temporarily rate-limited.</sub>
+</td>
+<td align="center" width="33%">
+
+**STREAMING**
+
+<img width="90%" src="https://img.shields.io/badge/Kafka%20%2F%20Redpanda-1F6FEB?style=for-the-badge" />
+
+<img width="90%" src="https://img.shields.io/badge/Structured_Streaming-6C5CE7?style=for-the-badge" />
+
+</td>
+<td align="center" width="33%">
+
+**AI ENGINEERING**
+
+<img width="90%" src="https://img.shields.io/badge/LLMs%20%2F%20RAG-7C3AED?style=for-the-badge" />
+
+<img width="90%" src="https://img.shields.io/badge/Vector_Search-16A34A?style=for-the-badge" />
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -343,7 +345,13 @@ Domain-focused application for Indian legal information workflows.
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=angadkumar9128&theme=tokyo-night&hide_border=true"/>
+<a href="https://github.com/angadkumar9128?tab=repositories">
+  <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=angadkumar9128&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" />
+</a>
+
+<br/><br/>
+
+<sub>If the external activity graph is temporarily unavailable, your native GitHub contribution calendar remains available on your profile.</sub>
 
 </div>
 
@@ -353,7 +361,15 @@ Domain-focused application for Indian legal information workflows.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=angadkumar9128&theme=tokyonight&no-frame=true&row=1&margin-w=15"/>
+<a href="https://github.com/angadkumar9128">
+  <img width="92%" src="https://github-profile-trophy.vercel.app/?username=angadkumar9128&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=12" alt="GitHub achievement trophies" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/angadkumar9128?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore%20all%20projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore all projects" />
+</a>
 
 </div>
 
