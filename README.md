@@ -276,22 +276,30 @@ Domain-focused application for Indian legal information workflows.
 
 <table>
 <tr>
-<td width="50%" valign="top" align="center">
+<td align="center" width="50%">
 
-### 💻 Languages & repositories
+### 📚 Public repositories
 
 <a href="https://github.com/angadkumar9128?tab=repositories">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angadkumar9128&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Languages used in public repositories" />
+  <img src="https://img.shields.io/badge/Explore%20repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore public repositories" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/angadkumar9128?tab=followers">
+  <img src="https://img.shields.io/badge/View%20followers-2F81F7?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub followers" />
 </a>
 
 </td>
-<td width="50%" valign="top" align="center">
+<td align="center" width="50%">
 
-### 🔥 Contribution streak
+### 🧭 Engineering focus
 
-<a href="https://github.com/angadkumar9128">
-  <img width="100%" src="https://streak-stats.demolab.com?user=angadkumar9128&theme=tokyonight&hide_border=true" alt="Public GitHub contribution streak" />
-</a>
+<img src="https://img.shields.io/badge/Data%20Engineering-PySpark%20%7C%20Delta%20Lake-FF3621?style=for-the-badge" alt="Data Engineering" />
+
+<img src="https://img.shields.io/badge/Streaming-Kafka%20%7C%20Redpanda-1F6FEB?style=for-the-badge" alt="Streaming" />
+
+<img src="https://img.shields.io/badge/Applied%20AI-LLMs%20%7C%20RAG-7C3AED?style=for-the-badge" alt="Applied AI" />
 
 </td>
 </tr>
@@ -303,44 +311,12 @@ Domain-focused application for Indian legal information workflows.
 
 <br/><br/>
 
-<table>
-<tr>
-<td align="center" width="33%">
+<a href="https://github.com/angadkumar9128?tab=repositories"><img src="https://img.shields.io/badge/VIEW%20FEATURED%20PROJECTS-181717?style=for-the-badge&logo=github&logoColor=white" alt="View featured projects" /></a>
+<a href="https://www.linkedin.com/in/angadkumar54/"><img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
 
-**DATA PLATFORMS**
+<br/><br/>
 
-<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" />
-
-<img src="https://img.shields.io/badge/Delta_Lake-00A1E0?style=for-the-badge" alt="Delta Lake" />
-
-</td>
-<td align="center" width="33%">
-
-**STREAMING**
-
-<img src="https://img.shields.io/badge/Kafka%20%2F%20Redpanda-1F6FEB?style=for-the-badge" alt="Kafka and Redpanda" />
-
-<img src="https://img.shields.io/badge/Structured_Streaming-6C5CE7?style=for-the-badge" alt="Structured Streaming" />
-
-</td>
-<td align="center" width="33%">
-
-**APPLIED AI**
-
-<img src="https://img.shields.io/badge/LLMs%20%2F%20RAG-7C3AED?style=for-the-badge" alt="Large language models and RAG" />
-
-<img src="https://img.shields.io/badge/Vector_Search-16A34A?style=for-the-badge" alt="Vector Search" />
-
-</td>
-</tr>
-</table>
-
-<p>
-<a href="https://github.com/angadkumar9128?tab=repositories"><img src="https://img.shields.io/badge/VIEW%20PROJECTS-181717?style=for-the-badge&logo=github&logoColor=white" alt="View public projects" /></a>
-<a href="https://www.linkedin.com/in/angadkumar54/"><img src="https://img.shields.io/badge/CONNECT-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
-</p>
-
-<sub>These visual cards depend on third-party services and may be rate-limited. Use the GitHub repository link for a reliable view of projects and code.</sub>
+<sub>Live contribution and language widgets have intentionally been removed to avoid broken third-party cards. Use the GitHub profile and repository pages above for current information.</sub>
 
 </div>
 
@@ -350,17 +326,15 @@ Domain-focused application for Indian legal information workflows.
 
 <div align="center">
 
-### 📅 GitHub contribution calendar
+### 📅 View the native GitHub contribution calendar
 
 <a href="https://github.com/angadkumar9128">
-  <img width="92%" src="https://ghchart.rshah.org/2f81f7/angadkumar9128" alt="Contribution activity chart for Angad Kumar" />
+  <img width="92%" src="https://img.shields.io/badge/OPEN%20GITHUB%20PROFILE-181717?style=for-the-badge&logo=github&logoColor=white" alt="Open native GitHub profile and contribution calendar" />
 </a>
 
 <br/><br/>
 
-<a href="https://github.com/angadkumar9128">
-  <img src="https://img.shields.io/badge/OPEN%20GITHUB%20PROFILE-181717?style=for-the-badge&logo=github&logoColor=white" alt="Open GitHub profile" />
-</a>
+<p>For accurate activity and contribution history, use your GitHub profile's built-in contribution calendar instead of a third-party graph image.</p>
 
 </div>
 
