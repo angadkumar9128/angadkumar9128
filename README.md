@@ -4,6 +4,10 @@
 
 <br/>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Building+Scalable+Data+%26+AI+Platforms;AI+%7C+GenAI+%7C+RAG+%7C+Agentic+AI;Lakehouse+Architecture+%7C+Streaming+Pipelines;Python+%7C+PySpark+%7C+SQL+%7C+Databricks" alt="Animated data engineering and AI skill headlines" />
+
+<br/>
+
 ### Data Engineering · Streaming Platforms · Applied AI
 
 <a href="https://github.com/angadkumar9128?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-Explore%20Repositories-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" /></a>
@@ -12,7 +16,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=angadkumar9128&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views counter" />
+<img src="https://komarev.com/ghpvc/?username=angadkumar9128&label=Profile+Views&color=blueviolet&style=for-the-badge" alt="Profile views counter" />
 <a href="https://github.com/angadkumar9128?tab=repositories"><img src="https://img.shields.io/badge/PUBLIC%20PROJECTS-Browse%20Repositories-2F81F7?style=for-the-badge&logo=github&logoColor=white" alt="Browse public repositories" /></a>
 
 </div>
