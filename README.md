@@ -345,13 +345,21 @@ Domain-focused application for Indian legal information workflows.
 
 <div align="center">
 
-<a href="https://github.com/angadkumar9128?tab=repositories">
-  <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=angadkumar9128&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" />
+### 📅 Public contribution history
+
+<a href="https://github.com/angadkumar9128">
+  <img width="92%" src="https://ghchart.rshah.org/2f81f7/angadkumar9128" alt="GitHub contribution calendar chart for Angad Kumar" />
 </a>
 
 <br/><br/>
 
-<sub>If the external activity graph is temporarily unavailable, your native GitHub contribution calendar remains available on your profile.</sub>
+<a href="https://github.com/angadkumar9128?tab=repositories">
+  <img src="https://img.shields.io/badge/Browse%20repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Browse public repositories" />
+</a>
+
+<br/><br/>
+
+<sub>This contribution chart uses a separate public chart service. If it becomes unavailable, use the GitHub profile link above to view the native contribution calendar.</sub>
 
 </div>
 
@@ -361,11 +369,47 @@ Domain-focused application for Indian legal information workflows.
 
 <div align="center">
 
-<a href="https://github.com/angadkumar9128">
-  <img width="92%" src="https://github-profile-trophy.vercel.app/?username=angadkumar9128&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=12" alt="GitHub achievement trophies" />
+### 🧩 Repository portfolio
+
+<a href="https://github.com/angadkumar9128?tab=repositories">
+  <img width="92%" src="https://github-readme-stats.vercel.app/api?username=angadkumar9128&show_icons=true&hide_title=true&hide_border=true&theme=tokyonight&include_all_commits=false" alt="Public GitHub profile statistics" />
 </a>
 
 <br/><br/>
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+**🚀 Data Engineering**
+
+<a href="https://github.com/angadkumar9128/StreamHub">
+  <img src="https://img.shields.io/badge/StreamHub-Streaming-1F6FEB?style=for-the-badge" alt="StreamHub streaming project" />
+</a>
+
+</td>
+<td align="center" width="33%">
+
+**🧠 Applied AI**
+
+<a href="https://github.com/angadkumar9128/lexai-legal-rag-platform-v2">
+  <img src="https://img.shields.io/badge/LexAI-RAG%20Platform-7C3AED?style=for-the-badge" alt="LexAI RAG project" />
+</a>
+
+</td>
+<td align="center" width="33%">
+
+**📊 Lakehouse**
+
+<a href="https://github.com/angadkumar9128/FHIR_Healthcare_Analytics">
+  <img src="https://img.shields.io/badge/FHIR-Healthcare%20Analytics-008577?style=for-the-badge" alt="FHIR analytics project" />
+</a>
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 <a href="https://github.com/angadkumar9128?tab=repositories">
   <img src="https://img.shields.io/badge/Explore%20all%20projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore all projects" />
