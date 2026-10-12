@@ -1,23 +1,22 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F2027,50:203A43,100:2C5364&text=ANGAD%20KUMAR&fontSize=55&fontAlignY=40&desc=Data%20Engineer%20•%20AI%20Engineer%20•%20GenAI%20Developer&descAlignY=60&fontColor=ffffff" alt="Angad Kumar — Data Engineer and AI Engineer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F2027,50:203A43,100:2C5364&text=ANGAD%20KUMAR&fontSize=55&fontAlignY=40&desc=Data%20Engineer%20•%20AI%20Engineer%20•%20GenAI%20Developer&descAlignY=60&animation=fadeIn&fontColor=ffffff" alt="Angad Kumar — Data Engineer, AI Engineer and GenAI Developer" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Building+Scalable+Data+%26+AI+Platforms;AI+%7C+GenAI+%7C+RAG+%7C+Agentic+AI;Lakehouse+Architecture+%7C+Streaming+Pipelines;Python+%7C+PySpark+%7C+SQL+%7C+Databricks" alt="Animated data engineering and AI skill headlines" />
-
-<br/>
-
-### Data Engineering · Streaming Platforms · Applied AI
-
-<a href="https://github.com/angadkumar9128?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-Explore%20Repositories-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" /></a>
-<a href="https://www.linkedin.com/in/angadkumar54/"><img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
-<a href="mailto:angadkumar9128@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Angad" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=900&color=00F7FF&center=true&vCenter=true&width=1000&lines=Building+Scalable+Data+%26+AI+Platforms;Lakehouse+Architecture+%7C+Streaming+Pipelines;Python+%7C+PySpark+%7C+SQL+%7C+Databricks;Generative+AI+%7C+RAG+%7C+Agentic+AI;Turning+Raw+Data+Into+Useful+Insights" alt="Animated engineering headline" />
 
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=angadkumar9128&label=Profile+Views&color=blueviolet&style=for-the-badge" alt="Profile views counter" />
-<a href="https://github.com/angadkumar9128?tab=repositories"><img src="https://img.shields.io/badge/PUBLIC%20PROJECTS-Browse%20Repositories-2F81F7?style=for-the-badge&logo=github&logoColor=white" alt="Browse public repositories" /></a>
+<img src="https://img.shields.io/github/followers/angadkumar9128?style=for-the-badge&logo=github&label=Followers&color=181717" alt="GitHub followers" />
+<img src="https://img.shields.io/github/stars/angadkumar9128?style=for-the-badge&logo=github&label=Stars&color=yellow" alt="GitHub stars" />
+
+<br/><br/>
+
+<a href="https://github.com/angadkumar9128?tab=repositories"><img src="https://img.shields.io/badge/🚀%20Explore-Featured%20Projects-2563EB?style=for-the-badge" alt="Explore featured projects" /></a>
+<a href="https://www.linkedin.com/in/angadkumar54/"><img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+<a href="mailto:angadkumar9128@gmail.com"><img src="https://img.shields.io/badge/Contact-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Angad" /></a>
 
 </div>
 ---
