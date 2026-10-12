@@ -1,0 +1,35 @@
+name: Refresh profile trophies
+
+on:
+  schedule:
+    - cron: "23 2 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-profile-trophies
+  cancel-in-progress: false
+
+jobs:
+  update-trophies:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+
+      - name: Generate repository-hosted trophy SVG
+        uses: soulteary/github-profile-trophy-action@v1.0.0
+        with:
+          options: 'username=angadkumar9128&theme=tokyonight&column=6&row=1&margin-w=12&no-frame=true&no-bg=true'
+          path: profile/trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit updated trophy SVG
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/trophy.svg
+          git commit -m "Refresh profile trophy SVG" || exit 0
+          git push
