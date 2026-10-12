@@ -328,7 +328,7 @@ Domain-focused application for Indian legal information workflows.
 
 ### 🌐 A look inside a data platform
 
-<img width="78%" src="https://raw.githubusercontent.com/angadkumar9128/PulseSphere/main/architecture/architecture_diagram.png" alt="PulseSphere data engineering architecture diagram" />
+<img width="78%" src="https://raw.githubusercontent.com/angadkumar9128/PulseSphere/master/architecture/architecture_diagram.png" alt="PulseSphere data engineering architecture diagram" />
 
 <sub>Architecture visual from PulseSphere: ingestion, layered processing, sentiment analytics, and dashboard-ready outputs.</sub>
 
