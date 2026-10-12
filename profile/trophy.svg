@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="150" viewBox="0 0 1000 150" role="img" aria-labelledby="title desc">
+<title id="title">GitHub profile trophies</title>
+<desc id="desc">This repository-hosted trophy card is refreshed automatically by GitHub Actions.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0f2027"/><stop offset="1" stop-color="#2c5364"/></linearGradient></defs>
+<rect width="1000" height="150" rx="16" fill="url(#bg)"/>
+<g font-family="Segoe UI,Arial,sans-serif" fill="#e6fbff"><text x="28" y="42" font-size="22" font-weight="700">🏆 GITHUB PROFILE TROPHIES</text><text x="28" y="68" font-size="13" fill="#a8d5df">Repository-hosted SVG · refreshed automatically with GitHub Actions</text></g>
+<g transform="translate(28 88)" font-family="Segoe UI,Arial,sans-serif" text-anchor="middle"><rect width="215" height="42" rx="8" fill="#164e63" stroke="#67e8f9"/><text x="107" y="26" font-size="13" fill="#f0fdff">Stars · Commits · Repositories</text><rect x="230" width="215" height="42" rx="8" fill="#24314e" stroke="#818cf8"/><text x="337" y="26" font-size="13" fill="#eef2ff">Followers · Reviews · PRs</text><rect x="460" width="215" height="42" rx="8" fill="#183a30" stroke="#4ade80"/><text x="567" y="26" font-size="13" fill="#f0fff4">Updated by workflow</text></g>
+</svg>
