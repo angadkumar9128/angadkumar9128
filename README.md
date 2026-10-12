@@ -1,7 +1,5 @@
 <div align="center">
 
-<img width="100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGR4aW1tOGVtb3o5NTh5YWhiMGRibnI3a2JrYmNxOHM2aGR6Y3ZhNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" alt="Animated coding banner" />
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F2027,50:203A43,100:2C5364&text=ANGAD%20KUMAR&fontSize=55&fontAlignY=40&desc=Data%20Engineer%20•%20AI%20Engineer%20•%20GenAI%20Developer&descAlignY=60&animation=fadeIn&fontColor=ffffff" alt="Angad Kumar — Data Engineer, AI Engineer and GenAI Developer" />
 
 <br/>
