@@ -1,28 +1,26 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F2027,50:203A43,100:2C5364&text=ANGAD%20KUMAR&fontSize=55&fontAlignY=40&desc=Data%20Engineer%20•%20AI%20Engineer%20•%20GenAI%20Developer&descAlignY=60&animation=fadeIn&fontColor=ffffff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F2027,50:203A43,100:2C5364&text=ANGAD%20KUMAR&fontSize=55&fontAlignY=40&desc=Data%20Engineer%20•%20AI%20Engineer%20•%20GenAI%20Developer&descAlignY=60&fontColor=ffffff" alt="Angad Kumar — Data Engineer and AI Engineer" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Databricks+Certified+Data+Engineer;Building+Scalable+Data+%26+AI+Platforms;AI+%7C+ML+%7C+DL+%7C+GenAI+%7C+RAG+%7C+Agentic+AI;Lakehouse+Architecture+%7C+Streaming+Pipelines;Full+Stack+%7C+Cloud+%7C+Enterprise+Systems" />
+### Data Engineering · Streaming Platforms · Applied AI
+
+<a href="https://github.com/angadkumar9128?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-Explore%20Repositories-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" /></a>
+<a href="https://www.linkedin.com/in/angadkumar54/"><img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
+<a href="mailto:angadkumar9128@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Angad" /></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=angadkumar9128&label=Profile+Views&color=blueviolet&style=for-the-badge" />
-
-<img src="https://img.shields.io/github/followers/angadkumar9128?style=for-the-badge&logo=github&color=black" />
-
-<img src="https://img.shields.io/github/stars/angadkumar9128?style=for-the-badge&logo=github&color=yellow" />
-
-<img src="https://img.shields.io/badge/Databricks-Data_Engineering-red?style=for-the-badge&logo=databricks&logoColor=white" />
+<a href="https://github.com/angadkumar9128?tab=followers"><img src="https://img.shields.io/badge/FOLLOWERS-View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="View followers on GitHub" /></a>
+<a href="https://github.com/angadkumar9128?tab=repositories"><img src="https://img.shields.io/badge/PUBLIC%20PROJECTS-Browse%20Repositories-2F81F7?style=for-the-badge&logo=github&logoColor=white" alt="Browse public repositories" /></a>
 
 </div>
-
 ---
 
 # 🚀 About Me
 
-<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGR4aW1tOGVtb3o5NTh5YWhiMGRibnI3a2JrYmNxOHM2aGR6Y3ZhNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif">
+<img align="right" alt="Python, Apache Spark, Kafka, databases and cloud technology icons" width="300" src="https://skillicons.dev/icons?i=python,apache,kafka,postgres,docker,aws,azure,fastapi&theme=dark">
 
 ### ⚡ Data Engineering • Streaming Systems • Applied AI
 
@@ -278,30 +276,30 @@ Domain-focused application for Indian legal information workflows.
 
 <table>
 <tr>
-<td align="center" width="50%">
+<td width="50%" valign="top" align="center">
 
-### 💻 Languages
+### 💻 Languages & repositories
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angadkumar9128&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&card_width=400" alt="Top languages in public repositories" />
+<a href="https://github.com/angadkumar9128?tab=repositories">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angadkumar9128&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Languages used in public repositories" />
+</a>
 
 </td>
-<td align="center" width="50%">
+<td width="50%" valign="top" align="center">
 
 ### 🔥 Contribution streak
 
-<img width="100%" src="https://streak-stats.demolab.com?user=angadkumar9128&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+<a href="https://github.com/angadkumar9128">
+  <img width="100%" src="https://streak-stats.demolab.com?user=angadkumar9128&theme=tokyonight&hide_border=true" alt="Public GitHub contribution streak" />
+</a>
 
 </td>
 </tr>
 </table>
 
-### 🧰 My engineering toolkit
+### 🧰 Technology toolkit
 
-<img width="72%" src="https://skillicons.dev/icons?i=python,postgres,mongodb,docker,aws,azure&theme=dark" alt="Python, databases, Docker, AWS and Azure" />
-
-<br/>
-
-<img width="72%" src="https://skillicons.dev/icons?i=apache,fastapi,kafka,githubactions,git,linux&theme=dark" alt="Apache, FastAPI, Kafka, GitHub Actions, Git and Linux" />
+<img width="78%" src="https://skillicons.dev/icons?i=python,postgres,mongodb,docker,aws,azure,fastapi,kafka,git,linux&theme=dark" alt="Python, PostgreSQL, MongoDB, Docker, AWS, Azure, FastAPI, Kafka, Git and Linux" />
 
 <br/><br/>
 
@@ -311,31 +309,38 @@ Domain-focused application for Indian legal information workflows.
 
 **DATA PLATFORMS**
 
-<img width="90%" src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" />
 
-<img width="90%" src="https://img.shields.io/badge/Delta_Lake-00A1E0?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Delta_Lake-00A1E0?style=for-the-badge" alt="Delta Lake" />
 
 </td>
 <td align="center" width="33%">
 
 **STREAMING**
 
-<img width="90%" src="https://img.shields.io/badge/Kafka%20%2F%20Redpanda-1F6FEB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Kafka%20%2F%20Redpanda-1F6FEB?style=for-the-badge" alt="Kafka and Redpanda" />
 
-<img width="90%" src="https://img.shields.io/badge/Structured_Streaming-6C5CE7?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Structured_Streaming-6C5CE7?style=for-the-badge" alt="Structured Streaming" />
 
 </td>
 <td align="center" width="33%">
 
-**AI ENGINEERING**
+**APPLIED AI**
 
-<img width="90%" src="https://img.shields.io/badge/LLMs%20%2F%20RAG-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LLMs%20%2F%20RAG-7C3AED?style=for-the-badge" alt="Large language models and RAG" />
 
-<img width="90%" src="https://img.shields.io/badge/Vector_Search-16A34A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Vector_Search-16A34A?style=for-the-badge" alt="Vector Search" />
 
 </td>
 </tr>
 </table>
+
+<p>
+<a href="https://github.com/angadkumar9128?tab=repositories"><img src="https://img.shields.io/badge/VIEW%20PROJECTS-181717?style=for-the-badge&logo=github&logoColor=white" alt="View public projects" /></a>
+<a href="https://www.linkedin.com/in/angadkumar54/"><img src="https://img.shields.io/badge/CONNECT-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+</p>
+
+<sub>These visual cards depend on third-party services and may be rate-limited. Use the GitHub repository link for a reliable view of projects and code.</sub>
 
 </div>
 
@@ -345,75 +350,59 @@ Domain-focused application for Indian legal information workflows.
 
 <div align="center">
 
-### 📅 Public contribution history
+### 📅 GitHub contribution calendar
 
 <a href="https://github.com/angadkumar9128">
-  <img width="92%" src="https://ghchart.rshah.org/2f81f7/angadkumar9128" alt="GitHub contribution calendar chart for Angad Kumar" />
+  <img width="92%" src="https://ghchart.rshah.org/2f81f7/angadkumar9128" alt="Contribution activity chart for Angad Kumar" />
 </a>
 
 <br/><br/>
 
-<a href="https://github.com/angadkumar9128?tab=repositories">
-  <img src="https://img.shields.io/badge/Browse%20repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Browse public repositories" />
+<a href="https://github.com/angadkumar9128">
+  <img src="https://img.shields.io/badge/OPEN%20GITHUB%20PROFILE-181717?style=for-the-badge&logo=github&logoColor=white" alt="Open GitHub profile" />
 </a>
-
-<br/><br/>
-
-<sub>This contribution chart uses a separate public chart service. If it becomes unavailable, use the GitHub profile link above to view the native contribution calendar.</sub>
 
 </div>
 
 ---
 
-# 🏅 GitHub Achievements
+# 🏅 Engineering Highlights
 
 <div align="center">
-
-### 🧩 Repository portfolio
-
-<a href="https://github.com/angadkumar9128?tab=repositories">
-  <img width="92%" src="https://github-readme-stats.vercel.app/api?username=angadkumar9128&show_icons=true&hide_title=true&hide_border=true&theme=tokyonight&include_all_commits=false" alt="Public GitHub profile statistics" />
-</a>
-
-<br/><br/>
 
 <table>
 <tr>
 <td align="center" width="33%">
 
-**🚀 Data Engineering**
+### 🌊 Streaming
 
 <a href="https://github.com/angadkumar9128/StreamHub">
-  <img src="https://img.shields.io/badge/StreamHub-Streaming-1F6FEB?style=for-the-badge" alt="StreamHub streaming project" />
+  <img src="https://img.shields.io/badge/StreamHub-Event%20Platform-1F6FEB?style=for-the-badge" alt="StreamHub event platform" />
 </a>
 
 </td>
 <td align="center" width="33%">
 
-**🧠 Applied AI**
+### 🧠 Applied AI
 
 <a href="https://github.com/angadkumar9128/lexai-legal-rag-platform-v2">
-  <img src="https://img.shields.io/badge/LexAI-RAG%20Platform-7C3AED?style=for-the-badge" alt="LexAI RAG project" />
+  <img src="https://img.shields.io/badge/LexAI-Legal%20RAG-7C3AED?style=for-the-badge" alt="LexAI legal RAG" />
 </a>
 
 </td>
 <td align="center" width="33%">
 
-**📊 Lakehouse**
+### 🏥 Lakehouse
 
 <a href="https://github.com/angadkumar9128/FHIR_Healthcare_Analytics">
-  <img src="https://img.shields.io/badge/FHIR-Healthcare%20Analytics-008577?style=for-the-badge" alt="FHIR analytics project" />
+  <img src="https://img.shields.io/badge/FHIR-Healthcare%20Analytics-008577?style=for-the-badge" alt="FHIR Healthcare Analytics" />
 </a>
 
 </td>
 </tr>
 </table>
 
-<br/>
-
-<a href="https://github.com/angadkumar9128?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore%20all%20projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore all projects" />
-</a>
+<a href="https://github.com/angadkumar9128?tab=repositories"><img src="https://img.shields.io/badge/BROWSE%20PUBLIC%20REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white" alt="Browse public repositories" /></a>
 
 </div>
 
