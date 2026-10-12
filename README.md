@@ -361,13 +361,17 @@ Domain-focused application for Indian legal information workflows.
 
 <div align="center">
 
-<a href="https://github.com/angadkumar9128?tab=repositories">
-  <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=angadkumar9128&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" />
+### 📅 GitHub contribution calendar
+
+<a href="https://github.com/angadkumar9128">
+  <img width="92%" src="https://ghchart.rshah.org/2f81f7/angadkumar9128" alt="Contribution activity chart for Angad Kumar" />
 </a>
 
 <br/><br/>
 
-<sub>If the external activity graph is temporarily unavailable, your native GitHub contribution calendar remains available on your profile.</sub>
+<a href="https://github.com/angadkumar9128">
+  <img src="https://img.shields.io/badge/OPEN%20GITHUB%20PROFILE-181717?style=for-the-badge&logo=github&logoColor=white" alt="Open GitHub profile" />
+</a>
 
 </div>
 
