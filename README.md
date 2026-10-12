@@ -96,6 +96,23 @@ Cloud & Development:
 
 ---
 
+# 🏗️ Featured Architecture — StreamHub
+
+<div align="center">
+
+**A practical streaming-to-lakehouse path**
+
+<img width="100%" src="assets/streamhub-architecture.svg" alt="StreamHub architecture: data sources → FastAPI → Redpanda Kafka → Spark Structured Streaming → Delta Lake Bronze/Silver/Gold → analytics" />
+
+<a href="https://github.com/angadkumar9128/StreamHub"><img src="https://img.shields.io/badge/Explore%20StreamHub-Repository-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explore StreamHub repository" /></a>
+<a href="https://github.com/angadkumar9128/StreamHub/blob/main/DATABRICKS_GUIDE.md"><img src="https://img.shields.io/badge/Databricks-Integration%20Guide-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="StreamHub Databricks integration guide" /></a>
+
+<sub>Architecture overview based on the repository documentation. StreamHub is a portfolio engineering project, not a claim of an Azure Event Hubs production-equivalent service.</sub>
+
+</div>
+
+---
+
 # 🚀 Featured Engineering Projects
 
 <div align="center">
@@ -110,7 +127,7 @@ Cloud & Development:
 
 Kafka-compatible ingestion with FastAPI, Redpanda, operational visibility, and a Databricks streaming path.
 
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Redpanda-E43D30?style=flat-square" /> <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" />
+<a href="https://github.com/angadkumar9128/StreamHub"><img src="https://img.shields.io/badge/Repository-StreamHub-181717?style=flat-square&logo=github&logoColor=white" alt="StreamHub repository" /></a> <a href="https://github.com/angadkumar9128/StreamHub/blob/main/DATABRICKS_GUIDE.md"><img src="https://img.shields.io/badge/Docs-Databricks%20Guide-FF3621?style=flat-square&logo=databricks&logoColor=white" alt="Databricks guide" /></a> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Redpanda-E43D30?style=flat-square" />
 
 **Highlights:** Large-file ingestion · DLQ · schema evolution · consumer lag
 
@@ -123,7 +140,7 @@ Kafka-compatible ingestion with FastAPI, Redpanda, operational visibility, and a
 
 Transforms nested FHIR resources into analytics-ready datasets using layered data engineering.
 
-<img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" /> <img src="https://img.shields.io/badge/Delta_Lake-00A1E0?style=flat-square" /> <img src="https://img.shields.io/badge/Unity_Catalog-FF3621?style=flat-square" />
+<a href="https://github.com/angadkumar9128/FHIR_Healthcare_Analytics"><img src="https://img.shields.io/badge/Repository-FHIR%20Lakehouse-181717?style=flat-square&logo=github&logoColor=white" alt="FHIR Healthcare Analytics repository" /></a> <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" /> <img src="https://img.shields.io/badge/Delta_Lake-00A1E0?style=flat-square" /> <img src="https://img.shields.io/badge/Unity_Catalog-FF3621?style=flat-square" />
 
 **Highlights:** Bronze → Silver → Gold · normalization · governance concepts
 
@@ -151,7 +168,7 @@ Transaction analytics designed to surface suspicious activity and fraud indicato
 
 Retrieval-augmented research with local and notebook-oriented execution paths.
 
-<img src="https://img.shields.io/badge/RAG-6C5CE7?style=flat-square" /> <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square" /> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+<a href="https://github.com/angadkumar9128/lexai-legal-rag-platform-v2"><img src="https://img.shields.io/badge/Repository-LexAI-181717?style=flat-square&logo=github&logoColor=white" alt="LexAI repository" /></a> <img src="https://img.shields.io/badge/Local%20UI-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Local Streamlit interface" /> <img src="https://img.shields.io/badge/RAG-6C5CE7?style=flat-square" /> <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square" />
 
 **Highlights:** Hybrid retrieval · embeddings · optional reranking · local GGUF
 
@@ -382,7 +399,7 @@ Domain-focused application for Indian legal information workflows.
 <div align="center">
 
 <a href="https://github.com/angadkumar9128">
-  <img width="92%" src="https://github-profile-trophy-reiyua-mirror.vercel.app/?username=angadkumar9128&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=12" alt="GitHub achievement trophies" />
+  <img width="92%" src="profile/trophy.svg" alt="GitHub profile trophies, refreshed by GitHub Actions" />
 </a>
 
 <br/><br/>
