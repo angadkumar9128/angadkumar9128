@@ -280,6 +280,20 @@ Domain-focused application for Indian legal information workflows.
 
 <div align="center">
 
+### 📌 Profile at a glance
+
+<a href="https://github.com/angadkumar9128">
+  <img src="https://img.shields.io/badge/GitHub-Angad%20Kumar-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+</a>
+<a href="https://github.com/angadkumar9128?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore-Repositories-2F81F7?style=for-the-badge&logo=github" alt="Explore repositories" />
+</a>
+<a href="https://github.com/angadkumar9128?tab=stars">
+  <img src="https://img.shields.io/badge/Explore-Stars-F1C40F?style=for-the-badge&logo=githubsponsors&logoColor=black" alt="Explore stars" />
+</a>
+
+<br/><br/>
+
 <table>
 <tr>
 <td align="center" width="50%">
