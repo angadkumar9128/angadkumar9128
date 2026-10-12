@@ -382,7 +382,7 @@ Domain-focused application for Indian legal information workflows.
 <div align="center">
 
 <a href="https://github.com/angadkumar9128">
-  <img width="92%" src="https://github-profile-trophy.vercel.app/?username=angadkumar9128&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=12" alt="GitHub achievement trophies" />
+  <img width="92%" src="https://github-profile-trophy-reiyua-mirror.vercel.app/?username=angadkumar9128&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=12" alt="GitHub achievement trophies" />
 </a>
 
 <br/><br/>
